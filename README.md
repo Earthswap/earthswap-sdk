@@ -5,7 +5,7 @@
 [![npm version](https://img.shields.io/npm/v/@earthswap/sdk/latest.svg)](https://www.npmjs.com/package/@earthswap/sdk/v/latest)
 [![npm bundle size (scoped version)](https://img.shields.io/bundlephobia/minzip/@earthswap/sdk/latest.svg)](https://bundlephobia.com/result?p=@earthswap/sdk@latest)
 
-In-depth documentation on this SDK is available at [earthswap.org](https://earthswap.org/docs/v2/SDK/getting-started/).
+In-depth documentation on this SDK is available at [earthswap.net](https://earthswap.net/docs/v2/SDK/getting-started/).
 
 ## Running tests
 
